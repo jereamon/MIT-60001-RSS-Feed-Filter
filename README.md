@@ -7,5 +7,6 @@ I wrote the  the classes and methods to filter and sort news story information.
 
 The end result being that a user can set a "description trigger" or "title trigger" and if the description or title of a news story contains that trigger the news story will be returned.
 
-ps5.py is the file with code I wrote. 
+ps5.py is the file with code I wrote.
+Including: **class NewsStory(), and all of the Trigger Classes.**
 ps5_test.py are a series of tests provided by the teachers to check if your program meets specicific functionality along the way.
